@@ -34,11 +34,6 @@ Each program is written with simplicity and clarity in mind, making it useful fo
 
 🚀 How to Use
 
-Clone this repo:
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
 
 Compile any program with gcc:
 
